@@ -1,6 +1,8 @@
 # Time 2
 ## It's a whole new type of time...Time 2 - (It's metricized mostly)
 #
+Please ignore the website, it doesn't work
+#
 ### Here's the deal:
 Years are divided into 10 months, each ending in ...ber, beginning with the correct prefix or some approximation of it, and using a, e, i, o, u, a, e, i, o, u because it was just too good of an opportunity to pass up (Premamber, Duember, Trimber, Quadomber, Pentumber, Sextamber, September, Octimber, Nonomber, Decumber). It also switchex to the holocene calendar for year numbers (adding 10,000 years) because it might as well. 
 # 
